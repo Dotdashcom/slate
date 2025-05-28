@@ -32,7 +32,7 @@
     "require-dir": "0.3.2",
     "run-sequence": "1.2.2",
     "vinyl-paths": "2.1.0",
-    "yargs": "6.4.0"
+    "yargs": "18.0.0"
   },
   "devDependencies": {
     "babel-cli": "6.18.0",
